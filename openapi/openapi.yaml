@@ -22,9 +22,9 @@ externalDocs:
   url: 'https://github.com/Rebilly/generator-openapi-repo'
 tags:
   - name: Echo
-    description: Example echo operations
+    description: Các hoạt động echo
   - name: User
-    description: Operations about user
+    description: Các hoạt động về user
 servers:
   - url: 'http://example.com/api/v1'
   - url: 'https://example.com/api/v1'
