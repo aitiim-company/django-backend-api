@@ -1,11 +1,11 @@
 openapi: 3.0.2
 info:
   version: 1.0.0
-  title: demhang
-  termsOfService: 'https://example.com/terms/'
+  title: Aitiim POS
+  termsOfService: 'https://pos.aitiim.com/terms/'
   contact:
     email: leanhhoang@aitiim.com
-    url: 'http://example.com/contact'
+    url: 'https://pos.aitiim.com/contact'
   license:
     name: Apache 2.0
     url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
