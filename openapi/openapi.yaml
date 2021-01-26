@@ -1,7 +1,7 @@
 openapi: 3.0.2
 info:
   version: 1.0.0
-  title: Aitiim POS
+  title: Aitiim ErikStore
   termsOfService: 'https://pos.aitiim.com/terms/'
   contact:
     email: leanhhoang@aitiim.com
@@ -12,7 +12,7 @@ info:
   x-logo:
     url: 'https://redocly.github.io/openapi-template/logo.png'
   description: >
-    This is the example of API documents for the demhang project 
+    This is the example of API documents for the ErikStore project 
 
     # Introduction
 
